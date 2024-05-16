@@ -1,0 +1,14 @@
+header {
+    background-color: #1F2937;
+    color: white;
+}
+
+.Article-One {
+    background-color: #1F2937;
+    color: white;    
+}
+
+a, a:visited {
+    color: #E5E7EB;
+    text-decoration: none;
+}
